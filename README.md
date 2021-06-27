@@ -1,5 +1,5 @@
 
-# Consumindo API com React
+# Consumindo API com Node + Axios + React
 ## Objetivo deste código
 Demonstar uma maneira simples de se consumir uma API utilizando **React + Axios**. 
 
