@@ -38,5 +38,11 @@ Acesse o http://locahhost:3000 em seu navegado e veja o resultado
 ## Conclusão
 Com poucas linhas de código, é possível consumir dados de qualquer API gracas a ferramentas poderosas como **React, Node.js e Axios**. <br>
 
-Veja um exemplo neste link:: https://swiss-pi.vercel.app/
+Veja um exemplo neste link:: https://swiss-pi.vercel.app/ <br><br>
+
+
+←[Voltar para lista anterior](https://github.com/ricardaonao/APIs)
+____________________________________________________________________
+Autoria: Ricardo Souza 
+
 
