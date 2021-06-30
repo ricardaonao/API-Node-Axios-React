@@ -11,7 +11,7 @@ Demonstar uma maneira simples de se consumir uma API utilizando **React + Axios*
 
 
 ## Configurando Ambiente 
- Instale o **Noode.Js** (caso não tenha, acesse o site do Node.js https://nodejs.org/en/, baixe a versão LTS, e instale. Next, next, next...), instale os seguintes pacotes utilizando seu terminal:
+ Instale o **Node.Js** (caso não tenha, acesse o site do Node.js https://nodejs.org/en/, baixe a versão LTS, e instale. Next, next, next...), instale os seguintes pacotes utilizando seu terminal:
 
 * **React** : Biblioteca **JavaScript** para criação de UI (User Interface) baseada em componentes e sintaxe *jsx*.<br> <br>
 `npm create-react-app Api_user_generator` <br> <br>
